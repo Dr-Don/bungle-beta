@@ -10,7 +10,7 @@
                     <i class="el-icon-d-arrow-left" v-if = "isCollapse === false"></i>
                 </el-checkbox-button>
                 <el-menu default-active="1-4-1" class="function-menu" @open="handleOpen" @close="handleClose" :collapse="isCollapse"
-                         background-color="#272b3e"
+                         background-color="#2c3e50"
                          text-color="#fff"
                          active-text-color="#ffd04b">
                     <el-menu-item index="1">

@@ -2,8 +2,10 @@ import Vue from 'vue'
 import 'element-ui/lib/theme-chalk/index.css'
 import App from './App.vue'
 import ElementUI from 'element-ui'
+import echarts from 'echarts'
 
 Vue.use(ElementUI)
+Vue.prototype.$echarts = echarts
 Vue.config.productionTip = false;
 
 import VueAMap from 'vue-amap'

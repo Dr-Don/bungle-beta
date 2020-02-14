@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "echarts": "^4.6.0",
     "element-ui": "^2.13.0",
     "vue": "^2.6.10",
     "vue-amap": "^0.5.10",
+    "vue-echarts": "^5.0.0-beta.0",
     "vue-leaflet": "^0.1.0"
   },
   "devDependencies": {
